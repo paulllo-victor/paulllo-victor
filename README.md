@@ -1,9 +1,8 @@
-<h1 align="center">Hi Everyone 👋</h1>
+<h1 align="center">Hi everyone! I'm Paulo Victor 👋</h1>
 <!-- Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Bio -->
-Hi everyone! I'm Paulo Victor 👋
 I'm passionate about technology and love building solutions that make a difference. As a software engineer with expertise in PHP, Laravel, and Node.js, I focus on creating scalable, efficient, and user-friendly applications.
 
 I enjoy working across the stack to bring ideas to life, from crafting robust backends to designing APIs that power seamless user experiences. Collaboration is key, and I've had the opportunity to work with amazing teams of developers, designers, and stakeholders to deliver impactful projects.
