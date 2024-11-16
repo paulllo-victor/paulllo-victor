@@ -15,7 +15,6 @@ I'm always eager to learn and explore new technologies, and I believe the future
 
 <!-- Statistic -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulllo-victor&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
-
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulllo-victor&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
