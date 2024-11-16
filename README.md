@@ -14,7 +14,7 @@ I'm always eager to learn and explore new technologies, and I believe the future
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Statistic -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulllo-victor)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulllo-victor&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulllo-victor&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
